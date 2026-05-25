@@ -1,9 +1,5 @@
 # Customer Churn Prediction — Interpretable Data Science
 
-A group assignment for the **Interpretable Data Science** course. We build and compare churn prediction models for a telecommunications company, with a strict focus on *interpretability* alongside predictive performance.
-
-**Team:** Duc Manh Nguyen · Minh Hoan Tran · Qiushuang Liu
-
 ---
 
 ## Table of Contents
