@@ -280,7 +280,6 @@ Trigger a full retraining cycle if validation ROC-AUC drops more than 3 points b
 │
 ├── slides/
 │   ├── Slide.pdf              <- Project presentation deck
-│   └── README.md
 │
 └── references/
     ├── Assignment_Group.pdf   <- Original project brief
