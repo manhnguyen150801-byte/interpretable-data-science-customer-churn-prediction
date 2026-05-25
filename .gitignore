@@ -1,0 +1,65 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Data science / ML ─────────────────────────────────────────────────────────
+# Uncomment the line below if you do not want to commit the raw dataset
+# data/*.csv
+
+# Model artefacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# ── OS artefacts ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs & editors ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Secrets & credentials ─────────────────────────────────────────────────────
+.env
+*.env.*
+secrets.yaml
+secrets.json
+
+# ── Project-specific ──────────────────────────────────────────────────────────
+# Internal assistant instructions — not part of the project submission
+CLAUDE.md
+
+# ── Logs & temp files ─────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
+htmlcov/
+.coverage
+.pytest_cache/
